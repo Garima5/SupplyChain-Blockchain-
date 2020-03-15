@@ -21,3 +21,5 @@
 <p>
 	Similarly, for distributers and retailers, they can directly see the parties involved in supply chain. The project will also focus on ownership transfer and profit distribution among the vendor , retailer and distributer.
 </p>
+<hr>
+
